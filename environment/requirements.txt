@@ -5,7 +5,7 @@ sortingview==0.14.2
 figpack==0.3.8
 figpack-spike-sorting==0.1.15
 matplotlib_venn==1.1.2
-torch==2.6.0
+torch==2.13.0
 pynwb==4.0.0
 pytz==2025.2
 hdbscan==0.8.41
